@@ -1,0 +1,2 @@
+# mapping_data_components_emojipedia
+Created with CodeSandbox
